@@ -1,4 +1,4 @@
-let isDone: boolean = true;
+let isDone1: boolean = true;
 
 let decL: number = 20;
 
