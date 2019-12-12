@@ -4,9 +4,3 @@
 ```
 $ tsc learn/*.ts --outDir ./dist --watch
 ```
-
-## demos
-
-```
-cd ./demos
-```
