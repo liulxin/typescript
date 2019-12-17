@@ -7,5 +7,6 @@
 // import './generics'
 // import './advance'
 // import './m'
-import './es6/c'
+// import './es6/c'
+// import './merge'
 
